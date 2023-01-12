@@ -1,0 +1,12 @@
+__pycache__
+.idea
+.vscode
+venv
+config.json
+*.log
+data/downloads/
+data/cards/changed_visa_card_new.jpg
+data/cards/changed_visa_card_old.jpg
+data/cards/changed_visa_card_mobile.jpg
+drivers
+.DS_store
